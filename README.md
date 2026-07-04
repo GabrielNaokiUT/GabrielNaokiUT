@@ -19,10 +19,9 @@ Aqui estão as principais tecnologias com as quais trabalho ou estou estudando a
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
-
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=GabrielNaokiUT&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=GabrielNaokiUT&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielNaokiUT&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNaokiUT&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="180em" />
 </p>
 
 ## ✉️ Contato
