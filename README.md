@@ -1,5 +1,7 @@
 # Olá, eu sou o Gabriel Naoki! 👋
 
+## 🎯 Buscando Oportunidades: Estágio | Júnior 
+
 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade SENAI Fatesg. Sou focado no desenvolvimento de softwares robustos, com forte interesse em engenharia de software, arquitetura de sistemas e soluções backend estruturadas.
 
 ## 🚀 Sobre mim
@@ -17,11 +19,11 @@ Aqui estão as principais tecnologias com as quais trabalho ou estou estudando a
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielNaokiUT&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNaokiUT&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="180em" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=GabrielNaokiUT&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=GabrielNaokiUT&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="180em" />
 </p>
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNaokiUT&layout=compact&theme=dark)
 
 ## ✉️ Contato
 - 💼 [LinkedIn](www.linkedin.com/in/gabriel-naoki-uto-turigoe-3166a2394)
