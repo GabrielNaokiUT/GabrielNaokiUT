@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Naoki! 👋
 
-## 🎯 Buscando Oportunidades: Estágio | Júnior 
+## 🚀 Estagiário de Software TSE Engenharia e Automação
 
 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade SENAI Fatesg. Sou focado no desenvolvimento de softwares robustos, com forte interesse em engenharia de software, arquitetura de sistemas e soluções backend estruturadas.
 
