@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel Naoki! 👋
 
 ## 🚀 Sobre mim
-- 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) - SENAI FATESG.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS) - SENAI FATESG.
 - 👨‍💻 Estagiário de Software na TSE Engenharia e Automação.
 
 ## 🛠️ Tecnologias e Ferramentas
